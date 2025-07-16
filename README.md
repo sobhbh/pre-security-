@@ -1,2 +1,20 @@
-# pre-security-
-A collection of practical projects and labs from my 15-day cybersecurity bootcamp.
+# My Cybersecurity Bootcamp Portfolio
+
+This repository documents my work from a 14-day practical cybersecurity bootcamp. Each project includes a detailed write-up with steps, screenshots, and reflections.
+
+## Projects
+
+*   **Day 1:** [Virtualization & Troubleshooting Method](./Day-01-Virtualization/README.md)
+*   **Day 2:** [Active Directory Deployment](./Day-02-Active-Directory/README.md)
+*   **Day 3:** [PowerShell & GPO Management](./Day-03-GPO-Management/README.md)
+*   **Day 4:** [Windows Permissions & Firewall Troubleshooting](./Day-03-GPO-Management/README.md)
+*   **Day 5:** [Linux Command & Permissions](./Day-03-GPO-Management/README.md)
+*   **Day 6:** [Network Setup & Packet Analysis](./Day-03-GPO-Management/README.md)
+*   **Day 7:** [pfSense Firewall Basics](./Day-03-GPO-Management/README.md)
+*   **Day 8:** [Web Server Deployment & HTTPS](./Day-03-GPO-Management/README.md)
+*   **Day 9:** [Complex Network Troubleshooting](./Day-03-GPO-Management/README.md)
+*   **Day 10:** [Documetation & Mid-Point Review](./Day-03-GPO-Management/README.md)
+*   **Day 11:** [Vulnerability Assessment](./Day-03-GPO-Management/README.md)
+*   **Day 12:** [Patch Management & Verification](./Day-03-GPO-Management/README.md)
+*   **Day 13:** [Exploitation & Incident Response](./Day-03-GPO-Management/README.md)
+*   **Day 14:** [Automation With Scripting](./Day-03-GPO-Management/README.md)
