@@ -14,10 +14,6 @@ I began by installing VirtualBox and configuring the networking to allow communi
 
 To practice problem-solving, I deliberately broke a network setting. Using the 6-step troubleshooting methodology, I was able to systematically identify and resolve the issue.
 
-- **Step 1: Identify the problem.** VMs could not ping each other.
-- **Step 2: Establish a theory.** The VM was likely attached to the wrong virtual network adapter.
-- **[...Finish listing the steps and what you found...]**
-
 I started thinking of this repository at day 6 so screenshots aren't available till then.
 
 ## Challenges & Reflection
