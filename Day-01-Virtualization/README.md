@@ -14,7 +14,7 @@ I began by installing VirtualBox and configuring the networking to allow communi
 
 To practice problem-solving, I deliberately broke a network setting. Using the 6-step troubleshooting methodology, I was able to systematically identify and resolve the issue.
 
-I started thinking of this repository at day 6 so screenshots aren't available till then.
+I started thinking of this repository at day 6 so screenshots aren't appropriately available till then.
 
 ## Challenges & Reflection
 This lab reinforced that a structured troubleshooting process saves significant time compared to randomly changing settings. It is a critical skill for any IT/security role.
