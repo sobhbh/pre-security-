@@ -16,6 +16,7 @@ I also created a new standard user and added them to the `sudoers` group, allowi
 <img width="647" height="332" alt="Screenshot 2025-07-10 151303" src="https://github.com/user-attachments/assets/183108c6-8ac2-4e13-94a4-78a0859a4c31" />
 
 ![Screenshot of trying to access log file]
+
 <img width="643" height="112" alt="1fdc63c6-34af-4454-887d-b6f5778beb12" src="https://github.com/user-attachments/assets/ff40c62f-02e7-42d0-bf08-a854e38d62ea" />
 
 
