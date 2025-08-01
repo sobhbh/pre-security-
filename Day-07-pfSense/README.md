@@ -30,12 +30,12 @@ To deploy and configure pfSense, a powerful open-source firewall, to act as the 
 ### Evidence
 
 *My pfSense firewall ruleset, clearly showing the `Block` rule on the WAN interface and the `Pass` rule on the LAN.*
-![Firewall Rules]( <img width="1919" height="1079" alt="Screenshot 2025-08-01 154611" src="https://github.com/user-attachments/assets/7db5f486-d6f4-41a2-9cf5-e90db443b549" />
-)
+![Firewall Rules]
+<img width="1919" height="1079" alt="Screenshot 2025-08-01 154611" src="https://github.com/user-attachments/assets/7db5f486-d6f4-41a2-9cf5-e90db443b549" />
 
 *The pfSense dashboard, confirming that both WAN and LAN interfaces are up, with distinct IP addresses from different subnets.*
-![pfSense Dashboard]( <img width="1919" height="1038" alt="Screenshot 2025-08-01 155040" src="https://github.com/user-attachments/assets/e1ddf584-ebb3-40e4-af59-00626b31d900" />
-  )
+![pfSense Dashboard]
+<img width="1919" height="1038" alt="Screenshot 2025-08-01 155040" src="https://github.com/user-attachments/assets/e1ddf584-ebb3-40e4-af59-00626b31d900" />
 
 ## Challenges & Reflection
 
