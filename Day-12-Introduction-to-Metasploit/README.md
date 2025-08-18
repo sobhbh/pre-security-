@@ -31,14 +31,17 @@ This engagement simulated a real penetration test where the initial attack plan 
 ### Evidence
 
 *The initial reconnaissance phase showing both the BlueKeep and EternalBlue exploits failing, as Metasploit correctly identifies the Windows Server target as not vulnerable.*
-![Metasploit Recon Failures](metasploit-recon-failures.png)
+
 <img width="958" height="1079" alt="Screenshot 2025-08-18 210925" src="https://github.com/user-attachments/assets/b117aa00-63e9-4b56-995e-35e6589dd216" />
+
 <img width="960" height="1079" alt="Screenshot 2025-08-18 211640" src="https://github.com/user-attachments/assets/f25fde21-86f1-458b-b967-e1d961097383" />
 
 
 *The successful establishment of a Meterpreter session. The `exploit/multi/handler` catches the reverse TCP connection from the payload executed on the Windows Server.*
-![Meterpreter Success](meterpreter-success.png)
-![Uploading Screenshot 2025-08-18 214646.png…]()
+<img width="960" height="1079" alt="Screenshot 2025-08-18 214646" src="https://github.com/user-attachments/assets/a2b3de2b-8cce-4016-8cb5-a3751930e1ab" />
+
+
+
 
 
 ## Challenges & Reflection
