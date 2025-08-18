@@ -13,3 +13,5 @@ This repository documents my work from a 14-day practical cybersecurity bootcamp
 *   **Day 7:** [pfSense Firewall Basics](./Day-07-pfSense/README.md)
 *   **Day 8:** [Web Server HTTPS](./Day-08-Web-Server-HTTPS/README.md)
 *   **Day 9:** [Complex Troubleshooting](./Day-09-Complex-Troubleshooting/README.md)
+*   **Day 10:** [Vulnerability Assessment](./Day-10-Vulnerability-Assessment/README.md)
+*   **Day 11:** [Patch Management](./Day-11-Patch-Management/README.md)
