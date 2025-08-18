@@ -29,12 +29,14 @@ The lab began with a significant real-world challenge: recovering access to the 
 ### Evidence
 
 *My WSUS console after the `DC1` server successfully registered, showing it needs 67 updates. This proves the Group Policy Object and client-server communication are working correctly.*
-![<img width="956" height="1079" alt="Screenshot 2025-08-18 195706" src="https://github.com/user-attachments/assets/c8cfdf54-2373-476e-952d-3906c244a992" />
-](wsus-computer-reported.png)
+![](wsus-computer-reported.png)
+<img width="956" height="1079" alt="Screenshot 2025-08-18 195946" src="https://github.com/user-attachments/assets/0a062de5-487a-4c47-a0a2-3f6aff9de21b" />
+
 
 *The successful verification scan from Nessus after patching, showing a clean report with zero Critical, High, or Medium severity findings.*
-![<img width="1919" height="1040" alt="Screenshot 2025-08-18 203618" src="https://github.com/user-attachments/assets/9449b24f-a7ba-44c3-a3a3-a6d4c50615e6" />
-](nessus-verification-scan.png)
+![](nessus-verification-scan.png)
+<img width="1919" height="1040" alt="Screenshot 2025-08-18 203618" src="https://github.com/user-attachments/assets/5fe441fe-66da-4b66-99ed-e7be75ad98eb" />
+
 
 ## Challenges & Reflection
 
